@@ -236,7 +236,7 @@
 }
 
 .hero {
-  background: url(../../img/bg-hero.jpg) center center/cover no-repeat;
+  background: url(../img/bg-hero.jpg) center center/cover no-repeat;
   display: flex;
   min-height: 650px;
   height: 100%;
@@ -254,7 +254,7 @@
     top: 0;
     left: 0;
     right: 0;
-    background: url(../../img/bg-hero.jpg) center center/cover no-repeat;
+    background: url(../img/bg-hero.jpg) center center/cover no-repeat;
     filter: blur(15px);
   }
 }

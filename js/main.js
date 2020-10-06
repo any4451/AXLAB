@@ -68,7 +68,7 @@ formBtn.addEventListener('click', function () {
 
 ///// animation
 var $target = $('.show');
-var hold = 120;
+var hold = 100;
 
 
 $.each($target, function(i,t){
